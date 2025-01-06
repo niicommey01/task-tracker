@@ -1,0 +1,14 @@
+{
+    "add_task": [
+        "Conduct a research on what DBMS to use for QuickHomes",
+        "Build a Chat application for the same reason",
+        "Build a simulation game for the same reason"
+    ],
+    "delete_task": [],
+    "completed": [
+        "Learn Math for IA on Saturday",
+        "Buid a Library Management System with Python and Java to enhance my understanding in OOP"
+    ],
+    "todo": [],
+    "in_progress": []
+}
